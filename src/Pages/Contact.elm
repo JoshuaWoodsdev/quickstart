@@ -12,7 +12,7 @@ page =
     { title = "Pages.Contact"
     , body =
         [ div []
-            [ text "joshua.lamar.woods@gmail.com"
+            [ text "Joshua.Lamar.Woods@gmail.com"
             , ul [ classes [ "helvetica f4-ns" ] ]
                 [ li [ classes [ "link", "dim", "dark-blue" ] ]
                     [ a [ href "/clients" ] [ text "Clients & Work" ] ]
